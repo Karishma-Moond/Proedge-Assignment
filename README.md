@@ -39,6 +39,25 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+
+*******
+### Develop a sample "Contacts" mobile app in React Native, which does the following:
+1. When the app is launched, show the contacts of the phone (name and number)
+2. Show a Search box at the top, where we can search contacts. For example if we type Arjun, all Arjuns must get listed
+3. If a contact is clicked on, show their name and number in a dismissable popup
+*******
+
+<img width="639" alt="Screenshot1" src="https://github.com/Karishma-Moond/Proedge-Assignment/assets/93302936/de869d4b-f44a-44fe-830d-501cdf2cb63a">
+
+<img width="639" alt="Screenshot2" src="https://github.com/Karishma-Moond/Proedge-Assignment/assets/93302936/3c5a5aeb-7f78-4ca7-86d2-4b4979ed6961">
+
+<img width="639" alt="Screenshot3" src="https://github.com/Karishma-Moond/Proedge-Assignment/assets/93302936/1a155d5a-89ec-4c50-a2df-b448f6f10e75">
+
+<img width="639" alt="Screenshot4" src="https://github.com/Karishma-Moond/Proedge-Assignment/assets/93302936/3577eb9e-4647-4415-aa4d-84491a4411c2">
+
+<img width="639" alt="Screenshot5" src="https://github.com/Karishma-Moond/Proedge-Assignment/assets/93302936/146b18a6-a108-49ba-aceb-28fdac1c627e">
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -69,22 +88,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-
-*******
-### Develop a sample "Contacts" mobile app in React Native, which does the following:
-1. When the app is launched, show the contacts of the phone (name and number)
-2. Show a Search box at the top, where we can search contacts. For example if we type Arjun, all Arjuns must get listed
-3. If a contact is clicked on, show their name and number in a dismissable popup
-*******
-
-<img width="639" alt="Screenshot1" src="https://github.com/Karishma-Moond/Proedge-Assignment/assets/93302936/de869d4b-f44a-44fe-830d-501cdf2cb63a">
-
-<img width="639" alt="Screenshot2" src="https://github.com/Karishma-Moond/Proedge-Assignment/assets/93302936/3c5a5aeb-7f78-4ca7-86d2-4b4979ed6961">
-
-<img width="639" alt="Screenshot3" src="https://github.com/Karishma-Moond/Proedge-Assignment/assets/93302936/1a155d5a-89ec-4c50-a2df-b448f6f10e75">
-
-<img width="639" alt="Screenshot4" src="https://github.com/Karishma-Moond/Proedge-Assignment/assets/93302936/3577eb9e-4647-4415-aa4d-84491a4411c2">
-
-<img width="639" alt="Screenshot5" src="https://github.com/Karishma-Moond/Proedge-Assignment/assets/93302936/146b18a6-a108-49ba-aceb-28fdac1c627e">
 
