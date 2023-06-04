@@ -73,7 +73,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <img width="639" alt="Screenshot1" src="https://github.com/Karishma-Moond/Proedge-Assignment/assets/93302936/de869d4b-f44a-44fe-830d-501cdf2cb63a">
 
+<img width="639" alt="Screenshot2" src="https://github.com/Karishma-Moond/Proedge-Assignment/assets/93302936/3c5a5aeb-7f78-4ca7-86d2-4b4979ed6961">
 
-<img width="612" alt="Screenshot2" src="https://github.com/Karishma-Moond/Proedge-Assignment/assets/93302936/3c5a5aeb-7f78-4ca7-86d2-4b4979ed6961">
+<img width="639" alt="Screenshot3" src="https://github.com/Karishma-Moond/Proedge-Assignment/assets/93302936/1a155d5a-89ec-4c50-a2df-b448f6f10e75">
 
-<img width="559" alt="Screenshot3" src="https://github.com/Karishma-Moond/Proedge-Assignment/assets/93302936/af6f07e2-b262-4ff5-9efb-e3445f98f5ad">
+<img width="639" alt="Screenshot4" src="https://github.com/Karishma-Moond/Proedge-Assignment/assets/93302936/3577eb9e-4647-4415-aa4d-84491a4411c2">
+
+<img width="639" alt="Screenshot5" src="https://github.com/Karishma-Moond/Proedge-Assignment/assets/93302936/146b18a6-a108-49ba-aceb-28fdac1c627e">
+
