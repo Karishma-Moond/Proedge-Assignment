@@ -72,7 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 *******
-Develop a sample "Contacts" mobile app in React Native, which does the following:
+### Develop a sample "Contacts" mobile app in React Native, which does the following:
 When the app is launched, show the contacts of the phone (name and number)
 Show a Search box at the top, where we can search contacts. For example if we type Arjun, all Arjuns must get listed
 If a contact is clicked on, show their name and number in a dismissable popup
